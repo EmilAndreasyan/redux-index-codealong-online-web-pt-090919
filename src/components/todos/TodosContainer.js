@@ -1,4 +1,4 @@
-import React, {Component} form 'react';
+import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import Todo from './Todo'
 
